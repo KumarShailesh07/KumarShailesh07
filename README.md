@@ -1,10 +1,5 @@
-<!-- Banner -->
-<p align="center">
-  <img src="https://i.imgur.com/dZ3dZRt.gif" width="100%"/>
-</p>
-
 <h1 align="center">👋 Hi, I'm <strong>Shailesh Kumar</strong></h1>
-<h3 align="center">Interactive Data Analyst · AI & ML · Python Developer</h3>
+<h3 align="center">Data Analyst · AI & ML · Python Developer</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/shailesh-kumar7"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"></a>
@@ -111,19 +106,17 @@ Region-wise drilldowns, product sales, time-series, hover charts.
 
 ---
 
-# 📈 GitHub Interactive Insights  
+# 📈 GitHub Insights
 
+
+
+
+<!-- GitHub Trophies -->
 <p align="center">
-
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=KumarShailesh07&theme=tokyonight&show_icons=true"/>
-
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KumarShailesh07&layout=compact&theme=tokyonight"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=KumarShailesh07&theme=tokyonight&margin-w=10&row=1&column=6"/>
 </p>
 
-<p align="center">
-  <img height="180" src="https://streak-stats.demolab.com?user=KumarShailesh07&theme=tokyonight"/>
-</p>
-
+---
 ---
 
 # 📬 Connect With Me
