@@ -15,17 +15,38 @@
 * 🎓 **Education**: Pursuing **B.Tech in Artificial Intelligence and Machine Learning** (2023–2027) at Ganga Institute of Technology & Management.
 * 💼 **Recent Experience**: Data Analyst Intern at **NullClass** (March 2025 – May 2025).
 * 🎯 **Focus**: Bridging the gap between raw data and data-driven decision-making through deep-dive EDA and interactive dashboards.
-* 📍 **Location**: Delhi, India.
+* 📍 **Location**: Greater Delhi Area, India.
 
 ---
 
 ### 🧰 Technical Toolkit
-| **Core Skills** | **Tools & Technologies** |
-| :--- | :--- |
-| **Data Visualization** | `Power BI` `Matplotlib` `Seaborn` `Plotly`  |
-| **Programming** | `Python` `Pandas` `NumPy` |
-| **Databases** | `Microsoft SQL Server` |
-| **Analysis** | `Advanced Excel` `Power Query` `Pivot Tables` `Macros`  |
+<table align="center">
+  <tr>
+    <td align="center" width="33%"><strong>Data Visualization</strong></td>
+    <td align="center" width="33%"><strong>Programming & DB</strong></td>
+    <td align="center" width="33%"><strong>Analytic Tools</strong></td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/PowerBI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/><br>
+      <img src="https://img.shields.io/badge/Matplotlib-005C8E?style=flat-square&logo=python&logoColor=white"/><br>
+      <img src="https://img.shields.io/badge/Seaborn-4D8BBE?style=flat-square&logo=python"/><br>
+      <img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly"/>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/><br>
+      <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/><br>
+      <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/><br>
+      <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white"/>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Advanced%20Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white"/><br>
+      <img src="https://img.shields.io/badge/Power%20Query-E21017?style=flat-square&logo=powerbi&logoColor=white"/><br>
+      <img src="https://img.shields.io/badge/Pivot%20Tables-0078D4?style=flat-square&logo=microsoft-excel"/><br>
+      <img src="https://img.shields.io/badge/Macros-217346?style=flat-square&logo=microsoft-excel"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
