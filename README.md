@@ -85,10 +85,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KumarShailesh07&layout=compact&theme=radical&hide_border=true" width="38%" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=KumarShailesh07&theme=tokyonight&margin-w=15&column=5" />
-</p>
-
 ---
 
 ### 📬 Connect with Me
