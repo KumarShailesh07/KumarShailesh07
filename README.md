@@ -15,7 +15,7 @@
 * 🎓 **Education**: Pursuing **B.Tech in Artificial Intelligence and Machine Learning** (2023–2027) at Ganga Institute of Technology & Management.
 * 💼 **Recent Experience**: Data Analyst Intern at **NullClass** (March 2025 – May 2025).
 * 🎯 **Focus**: Bridging the gap between raw data and data-driven decision-making through deep-dive EDA and interactive dashboards.
-* 📍 **Location**: Greater Delhi Area, India.
+* 📍 **Location**: Delhi, India.
 
 ---
 
