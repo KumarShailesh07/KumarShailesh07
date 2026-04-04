@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&pause=1000&color=3776AB&center=true&vCenter=true&width=850&lines=Hi,+I'm+Shailesh+Kumar;Aspiring+Data+Analyst;AI+%26+ML+Specialist;Transforming+Data+into+Insights" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&pause=1000&color=3776AB&center=true&vCenter=true&width=850&lines=Hi,+I'm+Shailesh+Kumar;Data+Analyst;Turning+Data+into+Business+Insights;SQL+%7C+Python+%7C+Power+BI" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -11,75 +11,59 @@
 
 ---
 
-### 🚀 Quick Summary
-* 🎓 **Education**: Pursuing **B.Tech in Artificial Intelligence and Machine Learning** (2023–2027) at Ganga Institute of Technology & Management.
-* 💼 **Recent Experience**: Data Analyst Intern at **NullClass** (April 2025 – May 2025).
-* 🎯 **Focus**: Bridging the gap between raw data and data-driven decision-making through deep-dive EDA and interactive dashboards.
-* 📍 **Location**: Delhi, India.
+### 🚀 About Me
+**Data Analyst** skilled in **SQL, Python, Power BI, and Advanced Excel**, focused on solving real business problems through data.
+
+- 🎓 B.Tech in Artificial Intelligence & Machine Learning (2023–2027)  
+- 💼 Data Analyst Intern at **NullClass**  
+- 📊 Strong in **EDA, data modeling, and dashboard development**  
+- 🎯 Turning raw data into **actionable insights for decision-making**
 
 ---
 
-### 🧰 Technical Toolkit
-<table align="center">
-  <tr>
-    <td align="center" width="33%"><strong>Data Visualization</strong></td>
-    <td align="center" width="33%"><strong>Programming & DB</strong></td>
-    <td align="center" width="33%"><strong>Analytic Tools</strong></td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://img.shields.io/badge/PowerBI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/><br>
-      <img src="https://img.shields.io/badge/Matplotlib-005C8E?style=flat-square&logo=python&logoColor=white"/><br>
-      <img src="https://img.shields.io/badge/Seaborn-4D8BBE?style=flat-square&logo=python"/><br>
-      <img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly"/>
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/><br>
-      <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/><br>
-      <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/><br>
-      <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white"/>
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Advanced%20Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white"/><br>
-      <img src="https://img.shields.io/badge/Power%20Query-E21017?style=flat-square&logo=powerbi&logoColor=white"/><br>
-      <img src="https://img.shields.io/badge/Pivot%20Tables-0078D4?style=flat-square&logo=microsoft-excel"/><br>
-      <img src="https://img.shields.io/badge/Macros-217346?style=flat-square&logo=microsoft-excel"/>
-    </td>
-  </tr>
-</table>
+### 📊 Featured Projects
+
+#### 🛒 Superstore Sales & Profitability Analysis
+- Analyzed **$2.3M+ revenue data**
+- Identified **18.7% loss-making orders**
+- Found key drivers: high discounts & low-margin products  
+- Delivered actionable strategies for **profit improvement**
 
 ---
 
-### 🏆 Honors & Certifications
-* 🌌 **Bhartiya Antariksh Hackathon 2025**: Certificate of Acknowledgement.
-* 🥇 **Ultimate Engineer Competition**: Secured **3rd Place** for innovative project excellence.
-* 📱 **Data Analyst Training**: Real-time Google Play Store Data Analytics in Python.
-* 🤖 **AI Masterclass**: Microsoft Excel with A.I. certification.
-* 📜 **Credential Highlights**: Python 3.X (Simplilearn #8070014) & SQL Basic (HackerRank #88F1813DFBFO).
-* 🛡️ **Verge Technical Fest**: Participation in Bug Bounty.
+#### 🏢 Prism Insurance BI & Sentiment Analysis
+- Integrated **SQL Server + Excel + Python (NLP)**
+- Identified **41.89% inactive policies**
+- Analyzed **customer sentiment (73% negative feedback)**
+- Highlighted issues: **claim rejection & poor customer service**
 
 ---
 
-### 📂 Featured Projects
-<details>
-<summary><b>📊 Business Intelligence Dashboards</b> (Click to Expand)</summary>
+### 🧰 Technical Skills
 
-* **Vrinda Store Analysis**: End-to-end sales analysis to identify growth drivers and consumer trends.
-* **HR Analytics**: Dashboard for employee performance tracking and churn analysis.
-* **Call Center Performance**: Visualizing response times and service level KPIs.
-</details>
+**Languages & Tools:**  
+SQL | Python | Power BI | Advanced Excel  
 
-<details>
-<summary><b>🐍 Python & Data Science</b> (Click to Expand)</summary>
+**Core Skills:**  
+Data Analysis | EDA | Data Cleaning | Data Visualization  
+Dashboard Development | Data Modeling | ETL  
 
-* **Google Play Store Analysis**: Interactive EDA uncovering insights on installs, ratings, and categories.
-* **Chocolate Sales Analysis**: Time-series visuals and regional performance tracking using Plotly.
-* **Social Media Engagement**: Prediction of engagement trends and sentiment analysis.
-</details>
+**Libraries & Tech:**  
+Pandas | NumPy | Matplotlib | Seaborn | NLP  
+
+**BI & Analytics:**  
+DAX | Power Query | KPI Analysis | Business Analysis | Data Storytelling  
 
 ---
 
-### 📈 GitHub Statistics
+### 🏆 Achievements
+- 🥉 Secured **3rd Place – Ultimate Engineer Project Competition (College Level)**  
+- 📊 Built multiple real-world **end-to-end data analytics projects**  
+- 🧠 Strong focus on **business problem solving using data**
+
+---
+
+### 📈 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=KumarShailesh07&show_icons=true&theme=radical&hide_border=true" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KumarShailesh07&layout=compact&theme=radical&hide_border=true" width="38%" />
@@ -88,10 +72,10 @@
 ---
 
 ### 📬 Connect with Me
-* **Portfolio**: [kumarshailesh07.github.io](https://kumarshailesh07.github.io/)
-* **LinkedIn**: [shailesh-kumar7](https://www.linkedin.com/in/shailesh-kumar7)
-* **Email**: [kumar.shailesh0705@gmail.com](mailto:kumar.shailesh0705@gmail.com)
+- 🌐 Portfolio: https://kumarshailesh07.github.io/  
+- 💼 LinkedIn: https://www.linkedin.com/in/shailesh-kumar7  
+- 📧 Email: kumar.shailesh0705@gmail.com  
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=KumarShailesh07&label=PROFILE+VIEWS&style=for-the-badge&color=blue" />
-</p>
+---
+
+🚀 **Actively seeking Data Analyst / Business Analyst internships and entry-level opportunities**
