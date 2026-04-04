@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&pause=1000&color=3776AB&center=true&vCenter=true&width=850&lines=Hi,+I'm+Shailesh+Kumar;Data+Analyst;Turning+Data+into+Business+Insights;SQL+%7C+Python+%7C+Power+BI" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&pause=1000&color=3776AB&center=true&vCenter=true&width=900&lines=Hi,+I'm+Shailesh+Kumar;Data+Analyst;Turning+Data+into+Business+Insights;SQL+%7C+Python+%7C+Power+BI+%7C+Advanced+Excel" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -79,8 +79,8 @@
 
 ### 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KumarShailesh07&show_icons=true&theme=radical&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KumarShailesh07&layout=compact&theme=radical&hide_border=true" width="38%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=KumarShailesh07&show_icons=true&theme=tokyonight&cache_seconds=1800" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KumarShailesh07&layout=compact&theme=tokyonight&cache_seconds=1800" width="38%" />
 </p>
 
 ---
