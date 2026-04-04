@@ -17,7 +17,7 @@
 - 🎓 B.Tech in Artificial Intelligence & Machine Learning (2023–2027)  
 - 💼 Data Analyst Intern at **NullClass**  
 - 📊 Strong in **EDA, data modeling, and dashboard development**  
-- 🎯 Turning raw data into **actionable insights for decision-making**
+- 🎯 Turning data into **actionable business insights**
 
 ---
 
@@ -26,7 +26,7 @@
 #### 🛒 Superstore Sales & Profitability Analysis
 - Analyzed **$2.3M+ revenue data**
 - Identified **18.7% loss-making orders**
-- Found key drivers: high discounts & low-margin products  
+- Key drivers: high discounts & low-margin products  
 - Delivered actionable strategies for **profit improvement**
 
 ---
@@ -34,32 +34,46 @@
 #### 🏢 Prism Insurance BI & Sentiment Analysis
 - Integrated **SQL Server + Excel + Python (NLP)**
 - Identified **41.89% inactive policies**
-- Analyzed **customer sentiment (73% negative feedback)**
-- Highlighted issues: **claim rejection & poor customer service**
+- Found **73% negative customer sentiment**
+- Highlighted claim rejection & service issues
 
 ---
 
-### 🧰 Technical Skills
-
-**Languages & Tools:**  
-SQL | Python | Power BI | Advanced Excel  
-
-**Core Skills:**  
-Data Analysis | EDA | Data Cleaning | Data Visualization  
-Dashboard Development | Data Modeling | ETL  
-
-**Libraries & Tech:**  
-Pandas | NumPy | Matplotlib | Seaborn | NLP  
-
-**BI & Analytics:**  
-DAX | Power Query | KPI Analysis | Business Analysis | Data Storytelling  
+### 🧰 Technical Toolkit
+<table align="center">
+  <tr>
+    <td align="center" width="33%"><strong>Data Visualization</strong></td>
+    <td align="center" width="33%"><strong>Programming & DB</strong></td>
+    <td align="center" width="33%"><strong>Analytics & BI</strong></td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/PowerBI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/><br>
+      <img src="https://img.shields.io/badge/Matplotlib-005C8E?style=flat-square&logo=python&logoColor=white"/><br>
+      <img src="https://img.shields.io/badge/Seaborn-4D8BBE?style=flat-square&logo=python"/><br>
+      <img src="https://img.shields.io/badge/Data%20Visualization-FF6F00?style=flat-square"/>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/><br>
+      <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/><br>
+      <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/><br>
+      <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white"/>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Advanced%20Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white"/><br>
+      <img src="https://img.shields.io/badge/Power%20Query-E21017?style=flat-square&logo=powerbi&logoColor=white"/><br>
+      <img src="https://img.shields.io/badge/DAX-1E88E5?style=flat-square"/><br>
+      <img src="https://img.shields.io/badge/Data%20Modeling-6A1B9A?style=flat-square"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
 ### 🏆 Achievements
 - 🥉 Secured **3rd Place – Ultimate Engineer Project Competition (College Level)**  
-- 📊 Built multiple real-world **end-to-end data analytics projects**  
-- 🧠 Strong focus on **business problem solving using data**
+- 📊 Built multiple **end-to-end analytics projects**  
+- 🧠 Strong focus on **data-driven problem solving**
 
 ---
 
@@ -78,4 +92,4 @@ DAX | Power Query | KPI Analysis | Business Analysis | Data Storytelling
 
 ---
 
-🚀 **Actively seeking Data Analyst / Business Analyst internships and entry-level opportunities**
+🚀 **Actively seeking Data Analyst / Business Analyst opportunities**
